@@ -212,5 +212,3 @@ function saveOrder() {
     </div>
   </section>
 </template>
-
-//
